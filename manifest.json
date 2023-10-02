@@ -1,4 +1,5 @@
 {
   "domain": "skarpthome",
-  "name": "Skarpt_home_integration"
+  "name": "Skarpt_home_integration",
+  "codeowners": []
 }
